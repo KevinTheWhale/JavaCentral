@@ -1,0 +1,34 @@
+Name : Sunjun Ahn
+CIS35A sec# 61Y
+Assignment 2 : Part 2
+Due date : Jan 20 2016
+Submitted : Jan 21 2016
+
+
+
+Now the Coin is facing up: Tail
+Now I will toss the coin 20 times.
+
+Results:   Tail
+Results:   Tail
+Results:   Tail
+Results:   Tail
+Results:   Tail
+Results:   Head
+Results:   Tail
+Results:   Head
+Results:   Head
+Results:   Head
+Results:   Head
+Results:   Tail
+Results:   Tail
+Results:   Head
+Results:   Tail
+Results:   Tail
+Results:   Tail
+Results:   Head
+Results:   Tail
+Results:   Head
+
+Heads facing up: 8
+Tail is facing up: 12

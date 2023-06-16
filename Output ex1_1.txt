@@ -1,0 +1,34 @@
+/*
+Sunjun Ahn
+CIS 35a sec#61Y
+Assignment 4
+Due 02/03/2016
+Submitted at 02/0 /2016
+*/
+
+
+
+
+	===Server 1===
+The Monthly Interest is : 4.0 %
+The Initial Balance is : $2000.0
+The Monthly interest is : $6.67
+The Total Saving is : $2,006.67
+
+The Monthly Interest is : 5.0 %
+The Initial Balance is : $2000.0
+The Monthly interest is : $8.33
+The Total Saving is : $2,008.33
+
+
+
+	===Server 2===
+The Monthly Interest is : 4.0 %
+The Initial Balance is : $3000.0
+The Monthly interest is : $10.00
+The Total Saving is : $3,010.00
+
+The Monthly Interest is : 5.0 %
+The Initial Balance is : $3000.0
+The Monthly interest is : $12.50
+The Total Saving is : $3,012.50
